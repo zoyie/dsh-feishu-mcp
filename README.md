@@ -809,13 +809,3 @@ $CLI  = "$env:USERPROFILE\lark-mcp\node_modules\@larksuiteoapi\lark-mcp\dist\cli
 
 另外一个教训：**不要相信 URL 里的 ID**。所有 ID 一律通过 API 查询，按名称匹配。
 这一条在几乎所有开放平台上都适用。
-
----
-
-发布到 GitHub 前请检查：
-
-- [ ] 替换所有 `cli_xxxxxxxxxxxx` 为你自己的占位符或删掉
-- [ ] 确认没有任何 App Secret 残留
-- [ ] 替换个人路径（`C:\Users\你\...`）
-- [ ] 如果不想公开你的知识库名称，把示例改成通用名称
-- [ ] 考虑加一个 `LICENSE`
