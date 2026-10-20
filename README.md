@@ -1,7 +1,7 @@
 # 把飞书知识库接入 MCP：一次完整的实战记录
 
 > 让 AI Agent 能直接读写你的飞书（Lark）知识库。
-> 本文记录从零到跑通的完整过程，**包括踩过的 9 个坑**。
+> 本文记录从零到跑通的完整过程
 >
 > 适用：任何支持 MCP（Model Context Protocol）的客户端。示例配置以 DSH 为例，
 > 换成 Claude Desktop / Cursor / Claude Code 时只是配置文件的写法不同，CLI 部分完全通用。
